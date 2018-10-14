@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinnerItems">
+        <item>Want to play</item>
+        <item>Playing</item>
+        <item>Stalled</item>
+        <item>Dropped</item>
+    </string-array>
+</resources>

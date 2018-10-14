@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Game Backlog Manager</string>
+    <string name="action_settings">Settings</string>
+    <string name="titel_text">Titel</string>
+    <string name="titel_edit_text">Name</string>
+    <string name="platform_text">Platform</string>
+    <string name="notes_text">Notes</string>
+    <string name="status_text">Status</string>
+</resources>
